@@ -1,2 +1,2 @@
 # hello-world
-Just another repository 
+Git is a distributed version control tool.
